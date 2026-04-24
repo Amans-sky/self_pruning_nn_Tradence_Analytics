@@ -108,4 +108,4 @@ This is the same reason LASSO produces exact zeros while Ridge regression produc
 
 ---
 
-*Submitted for Tredence AI Engineering Internship — 2025 Cohort*
+*Submitted for Tredence AI Engineering Internship — 2026 Cohort*
